@@ -1,0 +1,97 @@
+TITLE: My Personal and Academic Goals for Next Year
+Month 1: Foundation & Clarity
+
+Define my "why": Clarify what kind of problems I want to solve as a product designer (e.g. fintech, healthtech, edtech).
+
+Skill audit: Honestly assess my current skills (UX, UI, research, tools) and identify gaps.
+
+Learn the basics (or reinforce):
+
+UX design principles
+
+UI fundamentals: typography, color theory, spacing
+
+Design thinking process
+
+Tools to master: Figma (or Adobe XD), Notion, FigJam, Miro
+
+✅ Deliverables:
+
+A Notion page with learning plan and goals
+
+Completed foundational course on platforms like Coursera, Interaction Design Foundation, or YouTube
+
+ Month 2: Deepen UX & UI Knowledge
+
+Learn user research methods (surveys, interviews, personas)
+
+Practice user journey mapping, information architecture, and wireframing
+
+Study and recreate UI patterns from existing products
+
+Improve design presentation and storytelling
+
+✅ Deliverables:
+
+1 full case study on a UX redesign (even if fictional)
+
+Documented user research exercise
+
+ Month 3: Build Real Projects
+
+Start 1–2 case study projects (real or simulated)
+
+Ideas: redesign a local business app, build a concept for a social or financial tool
+
+Collaborate with a developer or another designer (if possible)
+
+✅ Deliverables:
+
+Completed end-to-end product design project
+
+Start writing about your process (LinkedIn/Medium)
+
+ Month 4: Portfolio & Personal Branding
+
+Design and build your online portfolio (Webflow, Framer, Notion, or coded)
+
+Craft 2–3 strong case studies
+
+Optimize your LinkedIn, GitHub (if you're hands-on with dev), and Behance/Dribbble
+
+✅ Deliverables:
+
+Live portfolio with clear projects and “about me” section
+
+Updated LinkedIn banner and description focused on product design
+
+ Month 5: Real-world Experience & Feedback
+
+Apply for internships, freelance gigs, or contribute to open-source design projects
+
+Reach out to 3–5 experienced product designers for portfolio reviews
+
+Join active design communities (ADPList, Discord groups, Design Twitter)
+
+✅ Deliverables:
+
+At least 1 real-world experience or feedback session
+
+Improved portfolio or case studies based on feedback
+
+ Month 6: Job Readiness & Growth Plan
+
+Practice design interviews and whiteboard challenges
+
+Prepare your resume and cover letter tailored to product design
+
+Start applying for entry-level/full-time/freelance product design roles
+
+Set a new 6-month plan focused on specialization or deeper industry work (e.g., mobile design, accessibility, design systems)
+
+✅ Deliverables:
+
+Portfolio-ready, job-ready version of yourself
+
+
+
